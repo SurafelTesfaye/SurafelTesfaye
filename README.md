@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **SurafelTesfaye/SurafelTesfaye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -11,4 +11,4 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on any robotics project's
 - 📫 How to reach me: ... Twitter or Email
 - ⚡ Fun fact: ... You can create profile summary by creating a new repo and naming it with your username then anything you add on the readme file shows up here.
--->
+
