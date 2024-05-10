@@ -19,9 +19,9 @@
 ### 👩‍💻: About Me :
 - :telescope: First year graduate student interested and working on Aerial Robotics and perception
 
-- :bulb: Research exposure: Deep Learning, Robot Learning, and Perception
+- :bulb: Research exposure: Machine Learning, Deep Learning, BVLOS, Aerial Robotics, Perception
 
-- :scroll: Work history in Robot Control, ROS (AMRs), Robotic simulation, Computer Vision with C++ and python as preferred programming languages.
+- :scroll: Robot Control, ROS, Simulation, Computer Vision, C++ and python as preferred programming languages.
 
 <!-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-AnveshSom-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url) -->
 
@@ -51,10 +51,3 @@
 
 --- 
 
-<!-- ### :fire: My Stats :
-<img src="https://media.giphy.com/media/RVWSqOsgDAq0W3051o/giphy.gif" width="150px"/>
-
-
-[![](https://raw.githubusercontent.com/VaidehiSom/VaidehiSom/master/profile-summary-card-output/github/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/VaidehiSom/VaidehiSom/master/profile-summary-card-output/github/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/VaidehiSom/VaidehiSom/master/profile-summary-card-output/github/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/VaidehiSom/VaidehiSom/master/profile-summary-card-output/github/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/VaidehiSom/VaidehiSom/master/profile-summary-card-output/github/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
