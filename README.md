@@ -35,6 +35,7 @@
   </div>
 
 <div>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" title="Matlab" alt="Matlab" width="40" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Ros_logo.svg" title="ROS" alt="ROS" width="140" height="40"/>&nbsp;
@@ -44,8 +45,6 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg" title="OpenCV" alt="OpenCV" width="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/13/Cmake.svg" title="CMake" alt="CMake" width="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" title="git" alt="Git" width="90"/>&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" title="Matlab" alt="Matlab" width="40" height="40"/>&nbsp;
-
 </div>
 
 
