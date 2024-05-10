@@ -17,16 +17,7 @@
 
 
 ### 👩‍💻: About Me :
-- :telescope: First year graduate student interested and working on Aerial Robotics and perception
-
-- :bulb: Research exposure: Machine Learning, Deep Learning, BVLOS, Aerial Robotics, Perception
-
-- :scroll: Robot Control, ROS, Simulation, Computer Vision, C++, Matlab Python
-<!-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-AnveshSom-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url) -->
-
-<!-- | :bell: | Don't forget to reach out to me :mailbox: for mutual growth if our interests align :-) |
-| :-------: | :-------------------------------------------------------------------------------------------------------- |
- -->
+- :telescope: Aerial Robotics, Perception, Controls
 
 <div id="header" align="left">
   <h3>
