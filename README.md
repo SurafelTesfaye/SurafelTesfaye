@@ -1,7 +1,7 @@
 <div id="header" align="center">
   
   <h1>
-  Welcome to my profile!
+  Welcome to my profile! I am a first year graduate student pursuing my degree in Mechanical Engineering.
   </h1>
 <img src="https://komarev.com/ghpvc/?username=SurafelTesfaye&style=flat-square&color=blue" alt=""/> <br>
   <img src="giphy.gif " width="200"/>
