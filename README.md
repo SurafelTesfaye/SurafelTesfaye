@@ -15,8 +15,6 @@
 <!-- <img src="https://media.giphy.com/media/hqU2KkjW5bE2v2Z7Q2/giphy.gif" width="200"/> -->
 </div>
 
-
-### 👩‍💻: About Me :
 - :telescope: Aerial Robotics, Perception, Controls
 
 <div id="header" align="left">
